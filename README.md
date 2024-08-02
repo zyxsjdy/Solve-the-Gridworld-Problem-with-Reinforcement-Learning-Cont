@@ -14,23 +14,23 @@ Use Jupyter Notebook to open the 'main.ipynb' file, and click Run All to run the
 # Included topics
 Reinforcement Learning
 
-Gridworld problem
+Gridworld Problem
 
 Part 1:
 
-Sarsa algorithm
+Sarsa Algorithm
 
-Q-learning algorithm
+Q-learning Algorithm
 
 Part 2:
 
-Bellman equation
+Bellman Equation
 
-gradient Monte Carlo method
+Gradient Monte Carlo Method
 
-semi-gradient TD(0) method
+Semi-gradient TD(0) Method
 
-affine function approximation
+Affine Function Approximation
 
 # Reference
 https://marcinbogdanski.github.io/rl-sketchpad
