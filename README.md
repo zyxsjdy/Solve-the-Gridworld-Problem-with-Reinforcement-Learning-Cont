@@ -9,7 +9,9 @@ python 3.11.9
 Packages: numpy, matplotlib, copy
 
 # How to run
-Use Jupyter Notebook to open the 'main.ipynb' file, and click Run All to run the file. 'environment.py' is for the gridworld environment.
+Use Jupyter Notebook to open the 'main.ipynb' file, and click Run All to run the file. 
+
+'environment.py' is for the gridworld environment.
 
 See explanation for results in 'Report.pdf'.
 
