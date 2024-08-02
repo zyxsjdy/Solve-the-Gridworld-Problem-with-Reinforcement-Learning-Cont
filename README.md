@@ -11,6 +11,8 @@ Packages: numpy, matplotlib, copy
 # How to run
 Use Jupyter Notebook to open the 'main.ipynb' file, and click Run All to run the file. 'environment.py' is for the gridworld environment.
 
+See explanation in 'Report.pdf'.
+
 # Included topics
 Reinforcement Learning
 
