@@ -38,7 +38,7 @@ Semi-gradient TD(0) Method
 
 Affine Function Approximation
 
-# Referencesss
+# References
 https://marcinbogdanski.github.io/rl-sketchpad
 
 https://github.com/BY571/Medium_Code_Examples
