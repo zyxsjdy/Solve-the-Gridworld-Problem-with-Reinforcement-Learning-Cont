@@ -3,7 +3,7 @@ Based on the book --- Reinforcement Learning: An Introduction (2nd ed, 2018) by 
 
 For the Reinforcement Learning course Assignment 3 (see 'Gridworld Problem 2.pdf') at Memorial University of Newfoundland, Aug. 1, 2024
 
-For Gridworld Problem 1 see https://github.com/zyxsjdy/Solve-the-Gridworld-Problem-with-Reinforcement-Learning
+For Gridworld Problem 1, see https://github.com/zyxsjdy/Solve-the-Gridworld-Problem-with-Reinforcement-Learning
 
 # Environment
 python 3.11.9
